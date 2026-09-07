@@ -553,7 +553,3 @@ int main()
 
     return 1;
 }
-
-
-// hardik
-// krishiv
